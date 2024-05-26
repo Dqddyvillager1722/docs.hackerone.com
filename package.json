@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "author": "HackerOne <support@hackerone.com>",
   "dependencies": {
-    "@fec/gatsby-plugin-advanced-feed": "^2.0.0",
+    "@fec/gatsby-plugin-advanced-feed": "^3.0.1",
     "@reach/router": "^1.1.1",
-    "gatsby": "^3.12.1",
+    "gatsby": "^5.13.2",
     "gatsby-cli": "^3.11.0",
     "gatsby-link": "^3.11.0",
     "gatsby-plugin-algolia-docsearch": "^1.0.5",
@@ -47,7 +47,7 @@
   "devDependencies": {
     "babel-eslint": "^10.0.3",
     "classnames": "^2.3.1",
-    "eslint": "^7.30.0",
+    "eslint": "^9.0.0",
     "eslint-plugin-import": "^2.24.2",
     "eslint-plugin-react": "^7.25.1",
     "gh-pages": "^3.1.0",
